@@ -1197,7 +1197,7 @@ h3.my-profession
         left: 42%;
     }
 }
-@media (max-width:340px)
+@media (max-width:500px)
 {
     .home .home-img::after
     {

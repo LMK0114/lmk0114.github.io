@@ -1329,3 +1329,11 @@ h3.my-profession
     }
     
 }
+@media (max-width:323px)
+{
+    .page-wrapper .timeline_progress
+    {
+        left: 41%;
+    }
+    
+}
